@@ -1,0 +1,4 @@
+# Stuff I'd like to learn about
+- networking in general
+- rfid
+- bluetooth
